@@ -24,13 +24,15 @@ The client was happy with the general shape of this design, focusing on ergonomi
 
 The device will be mounted into the internal cavity, and the camera into the lid, with the IR filter sitting in the large recess on top. It is unclear how this will be achieved, but we are currently looking into acquiring a small adapter that can be fastened into the recess and the lens simply screwed on to.
 
-Small magnets will hold the lid closed while the small lip on the lid will prevent it from slipping around. the IR LEDs will also be embedded into the lid in a circular pattern around the camera filter. The type of IR LED to use has become unclear, as there are conflicting resources about what wavelength to use that best penetrate the skin to visualise the veins. IR LEDs of different wavelengths will be acquired for testing, and to empirically confirm what wavelength is best, or if a mix of different wavelengths gives the best universal result (factoring in different skin colour and conditions).
+Small magnets will hold the lid closed while the small lip on the lid will prevent it from slipping around. the IR LEDs will also be embedded into the lid in a circular pattern around the camera filter. The type of IR LED to use has become unclear, as there are conflicting resources about what wavelength to use that best penetrate the skin to visualise the veins. IR LEDs of different wavelengths will be acquired for testing, and to empirically confirm what wavelength is best, or if a mix of different wavelengths gives the best universal result (factoring in different skin colour, adipose tissue and lighting conditions).
 
 There is a concern however, wavelengths nearest to the limit of infrared spectrum will be hard to obtain in a regular form factor. These LEDs seem to come in the SMD (Surface Mounted Device) form factor, with becomes more difficult to work with when soldering into a circuit, and require specialised techniques.
 
 These concerns will be addressed in due time. It is likely however that we will find that something slightly 'suboptimal' will prove to be enough for this project.
 
 ## Governance
-The ConOps have been finalised and the client is happy with the content. The only thing that remains is to create a contract and have it signed by the relevant stakeholders.
+The ConOps have been finalised and the client is happy with the content. The only thing that remains is to complete sign-off of conops by remainder of stakeholders.
 
 Requirements have also been developed with the client to reach a set that was accepted by the client. While these have been accepted they are subject to revision with prototyping and further research.
+
+Research into market competitors, hospital intravenous puncture policy, medical device classification and commercialisation processes. A summary of the findings will be posted into the repository in the next week. 
